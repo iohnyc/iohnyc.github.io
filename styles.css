@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Slabo+27px');
+
+h1, h2, h3 {
+	font-family: 'PT Sans',
+	sans-serif;
+
+}
+
+p, li {
+	font-family: 'Slabo',
+	serif;
+	color: #7B756C;
+}
+
+body {
+	background: url('../images/abstract-mosaic-background.png');
+	no-repeat center center fixed;
+	background-size: cover;
+}
+
+header, footer {
+	background-color: #595959;
+	text-align: center;
+	padding: 15px 30px;
+}
+
+header img {
+	width: 50%;
+	border-radius: 15px;
+}
+
+.main-content {
+	background-color: #808F85;
+	padding: 10px 0;
+	border-top: 2px solid #6FD11A;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
